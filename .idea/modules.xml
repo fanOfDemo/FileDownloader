@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/sdk_download/YWDownloadlib/YWDownloadlib.iml" filepath="E:/sdk_download/YWDownloadlib/YWDownloadlib.iml" />
+      <module fileurl="file://E:/sdk_download/app/app.iml" filepath="E:/sdk_download/app/app.iml" />
+      <module fileurl="file://E:/sdk_download/sdk_download.iml" filepath="E:/sdk_download/sdk_download.iml" />
+    </modules>
+  </component>
+</project>
